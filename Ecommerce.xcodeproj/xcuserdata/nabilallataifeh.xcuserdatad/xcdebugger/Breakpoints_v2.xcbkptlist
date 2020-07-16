@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D6867BC-02FD-4C4C-A2B3-E1A711035964"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ecommerce/Controllers/DetailTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DetailTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26 - 3d34ab7b47ba3a05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ecommerce.DetailTableViewController.productImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Ecommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabilallataifeh/Desktop/Ecommerce/Ecommerce/Controllers/DetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26 - 47f9c8214c7c6e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ecommerce.DetailTableViewController.productImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Ecommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabilallataifeh/Desktop/Ecommerce/Ecommerce/Controllers/DetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26 - 14637b45be8ea506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ecommerce.DetailTableViewController.productImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Ecommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabilallataifeh/Desktop/Ecommerce/Ecommerce/Controllers/DetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26 - 3af3425e32146acb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ecommerce.DetailTableViewController.productImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Ecommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabilallataifeh/Desktop/Ecommerce/Ecommerce/Controllers/DetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26 - b3da20c4e95b4d82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ecommerce.DetailTableViewController.init(style: __C.UITableViewStyle) -&gt; Ecommerce.DetailTableViewController"
+                  moduleName = "Ecommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabilallataifeh/Desktop/Ecommerce/Ecommerce/Controllers/DetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26 - 7e03a961a08ace38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ecommerce.DetailTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Ecommerce.DetailTableViewController"
+                  moduleName = "Ecommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabilallataifeh/Desktop/Ecommerce/Ecommerce/Controllers/DetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "FD23C81C-3810-44EB-8A1E-A9605D185B26 - 78a0de00a7e333fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ecommerce.DetailTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Ecommerce.DetailTableViewController&gt;"
+                  moduleName = "Ecommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabilallataifeh/Desktop/Ecommerce/Ecommerce/Controllers/DetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A2C2F33-391C-4E8D-B11E-FE694E1BF4EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ecommerce/Controllers/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "loginButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
